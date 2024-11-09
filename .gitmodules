@@ -22,3 +22,6 @@
 [submodule "pack/sCASP"]
 	path = pack/sCASP
 	url = https://github.com/SWI-Prolog/sCASP.git
+[submodule "pack/clpBNR"]
+	path = pack/clpBNR
+	url = https://github.com/ridgeworks/clpBNR.git
